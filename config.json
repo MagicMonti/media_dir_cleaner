@@ -1,0 +1,8 @@
+{
+    "image_dir" : "/home/julian/Nextcloud_backup/InstantUpload",
+    "ignore_video" : false,
+    "find_duplicates" : false,
+    "delete_duplicates" : true,
+    "create_new_subfolders_by_year" : true,
+    "move_not_copy" : true
+}
